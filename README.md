@@ -29,7 +29,7 @@ To run this project locally, follow these steps:
 2. Navigate to the project directory:
 
     ```bash
-    cd weather-info
+    cd Live_Weather_monitring_using_api
     ```
 
 3. Open `index.html` in your browser to view the app.
